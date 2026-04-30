@@ -1,0 +1,13 @@
+bin/
+build/
+
+#caso fique algum na raiz
+*.o
+*.out
+*.exe
+
+*.dSYM/
+*.log
+vgcore.*
+
+.vscode/
