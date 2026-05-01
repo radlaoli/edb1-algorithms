@@ -8,5 +8,5 @@ void printArray(int *array, int size)
     {
         printf("%d", array[ii], ", ");
     }
-    printf(array[size - 1], " ]");
+    printf("%d", array[size - 1], " ]\n");
 }
