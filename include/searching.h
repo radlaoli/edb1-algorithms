@@ -1,4 +1,4 @@
-#ifdef SEARCHING_H
+#ifndef SEARCHING_H
 #define SEARCHING_H
 
 int linearSearch(int *arr, int size, int target);
