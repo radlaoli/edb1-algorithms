@@ -6,7 +6,7 @@ void printArray(int *array, int size)
     printf("[");
     for (int ii = 0; ii < size - 1; ii++)
     {
-        printf(array[ii], ", ");
+        printf("%d", array[ii], ", ");
     }
     printf(array[size - 1], " ]");
 }
