@@ -13,7 +13,7 @@ int main()
 
     if (resultSearch != -1)
     {
-        printf("Element fount at index: %d\n", resultSearch);
+        printf("Element found at index: %d\n", resultSearch);
     }
     else
     {
